@@ -1,1 +1,1 @@
-print(32+22)
+print("Hello")
